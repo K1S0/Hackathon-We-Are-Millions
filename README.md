@@ -6,4 +6,4 @@ Your privacy is at risk on the Internet. The main problem with the Internet is t
 - Meme on FairDrive : 8cc36dc7539ae31001832c72db75e21f5963f8a4cbdb9431fc935a32382b97cb1647558600
 - Meme on Fairdrop : https://gateway.fairdatasociety.org/bzz/2a5e07947df617971ea65a94ed710f4db2c280702ddcf52e8024b15a9bd86298
 
-Open Source Licence : MIT License.
+<i>Open Source Licence : MIT License.</i>
