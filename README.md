@@ -5,6 +5,6 @@ Your privacy is at risk on the Internet. The main problem with the Internet is t
 
 -> Meme on FairDrive : 8cc36dc7539ae31001832c72db75e21f5963f8a4cbdb9431fc935a32382b97cb1647558600 <br>
 -> On Fairdrop : https://gateway.fairdatasociety.org/bzz/2a5e07947df617971ea65a94ed710f4db2c280702ddcf52e8024b15a9bd86298 <br>
--> On Swarm Gateway : https://gateway.ethswarm.org/access/d54c9152a0bccd63b794d421a01612e9b4786409fa52ca099a7426c47fef9486
+https://gateway.ethswarm.org/access/d54c9152a0bccd63b794d421a01612e9b4786409fa52ca099a7426c47fef9486
 
 <i>Open Source Licence : MIT License.</i>
